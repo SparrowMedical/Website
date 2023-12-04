@@ -1,0 +1,36 @@
+.wp-block-media-text .wp-block-media-text__content {
+	padding-left: var(--wp--style--root--padding-left);
+	padding-right: var(--wp--style--root--padding-right);
+}
+
+.wp-block-media-text.is-style-hover-zoom-img-in .wp-block-media-text__media,
+.wp-block-media-text.is-style-hover-zoom-block-in .wp-block-media-text__media,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-img-in,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-block-in {
+	overflow: hidden;
+}
+
+.wp-block-media-text.is-style-hover-zoom-img-in .wp-block-media-text__media img,
+.wp-block-media-text.is-style-hover-zoom-img-out .wp-block-media-text__media img,
+.wp-block-media-text.is-style-hover-zoom-block-in .wp-block-media-text__media img,
+.wp-block-media-text.is-style-hover-zoom-block-out .wp-block-media-text__media img,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-img-in .wp-block-media-text__media,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-img-out .wp-block-media-text__media,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-block-in .wp-block-media-text__media,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-block-out .wp-block-media-text__media {
+	transition: transform 0.8s cubic-bezier(0.2,0.1,0.3,1);
+}
+
+.wp-block-media-text.is-style-hover-zoom-img-in .wp-block-media-text__media:hover img,
+.wp-block-media-text.is-style-hover-zoom-block-in:hover .wp-block-media-text__media img,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-img-in .wp-block-media-text__media:hover,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-block-in:hover .wp-block-media-text__media {
+	transform: scale(1.11);
+}
+
+.wp-block-media-text.is-style-hover-zoom-img-out .wp-block-media-text__media:hover img,
+.wp-block-media-text.is-style-hover-zoom-block-out:hover .wp-block-media-text__media img,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-img-out .wp-block-media-text__media:hover,
+.wp-block-media-text.is-image-fill.is-style-hover-zoom-block-out:hover .wp-block-media-text__media {
+	transform: scale(0.89);
+}

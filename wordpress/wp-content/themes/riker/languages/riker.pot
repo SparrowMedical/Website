@@ -1,0 +1,881 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Riker 1.0\n"
+"POT-Creation-Date: 2023-11-27 13:49+0000\n"
+"PO-Revision-Date: 2023-11-24 15:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: UXL Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/block-styles.php:18
+msgid "Zoom in on hover"
+msgstr ""
+
+#: inc/block-styles.php:22
+msgid "Zoom out on hover"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "Overlay: pixels small"
+msgstr ""
+
+#: inc/block-styles.php:30
+msgid "Overlay: pixels large"
+msgstr ""
+
+#: inc/block-styles.php:34
+msgid "Overlay: bricks small"
+msgstr ""
+
+#: inc/block-styles.php:38
+msgid "Overlay: bricks-large"
+msgstr ""
+
+#: inc/block-styles.php:42
+msgid "Overlay: mosaic"
+msgstr ""
+
+#: inc/block-styles.php:46
+msgid "Overlay: squares"
+msgstr ""
+
+#: inc/block-styles.php:50
+msgid "Overlay: diagonal large"
+msgstr ""
+
+#: inc/block-styles.php:54
+msgid "Overlay: diagonal small"
+msgstr ""
+
+#: inc/block-styles.php:58
+msgid "Zoom in on image hover"
+msgstr ""
+
+#: inc/block-styles.php:62
+msgid "Zoom in on block hover"
+msgstr ""
+
+#: inc/block-styles.php:66
+msgid "Zoom out on image hover"
+msgstr ""
+
+#: inc/block-styles.php:70
+msgid "Zoom out on block hover"
+msgstr ""
+
+#: inc/block-styles.php:74
+msgid "Hover: Light"
+msgstr ""
+
+#: inc/block-styles.php:78
+msgid "Hover: Dark"
+msgstr ""
+
+#: inc/block-styles.php:82
+msgid "Shadow: Natural"
+msgstr ""
+
+#: inc/block-styles.php:86
+msgid "Shadow: Deep"
+msgstr ""
+
+#: inc/block-styles.php:90
+msgid "Shadow: Sharp"
+msgstr ""
+
+#: inc/block-styles.php:94
+msgid "Shadow: Outlined"
+msgstr ""
+
+#: inc/block-styles.php:98
+msgid "Shadow: Outlined Alt"
+msgstr ""
+
+#: inc/block-styles.php:102
+msgid "Shadow: Outlined Alt 2"
+msgstr ""
+
+#: inc/block-styles.php:106
+msgid "Shadow: Crisp"
+msgstr ""
+
+#: inc/block-styles.php:110
+msgid "Shadow: Crisp Alt"
+msgstr ""
+
+#: inc/block-styles.php:114
+msgid "Gradient text 1"
+msgstr ""
+
+#: inc/block-styles.php:118
+msgid "Gradient text 2"
+msgstr ""
+
+#: inc/block-styles.php:122
+msgid "Gradient text 3"
+msgstr ""
+
+#: inc/block-styles.php:126
+msgid "Gradient text 4"
+msgstr ""
+
+#: inc/block-styles.php:130
+msgid "Links - plain"
+msgstr ""
+
+#: inc/block-styles.php:134
+msgid "Links - underline on hover"
+msgstr ""
+
+#: inc/block-styles.php:138
+msgid "Dotted"
+msgstr ""
+
+#: inc/block-styles.php:142
+msgid "Dotted (medium)"
+msgstr ""
+
+#: inc/block-styles.php:146
+msgid "Dotted (large)"
+msgstr ""
+
+#: inc/block-styles.php:150
+msgid "Dashed"
+msgstr ""
+
+#: inc/block-styles.php:154
+msgid "Fading"
+msgstr ""
+
+#: inc/block-styles.php:158
+msgid "Inline"
+msgstr ""
+
+#: inc/block-styles.php:162
+msgid "Circle"
+msgstr ""
+
+#: inc/block-styles.php:166
+msgid "Disc"
+msgstr ""
+
+#: inc/block-styles.php:170
+msgid "Square"
+msgstr ""
+
+#: inc/block-styles.php:174
+msgid "Line"
+msgstr ""
+
+#: inc/block-styles.php:178
+msgid "Check"
+msgstr ""
+
+#: inc/block-styles.php:182
+msgid "Check (large)"
+msgstr ""
+
+#: inc/block-styles.php:186
+msgid "Check (huge)"
+msgstr ""
+
+#: inc/block-styles.php:190
+msgid "Cross"
+msgstr ""
+
+#: inc/block-styles.php:194
+msgid "Cross (large)"
+msgstr ""
+
+#: inc/block-styles.php:198
+msgid "Cross (huge)"
+msgstr ""
+
+#: inc/block-styles.php:202
+msgid "Star"
+msgstr ""
+
+#: inc/block-styles.php:206
+msgid "Star Outline"
+msgstr ""
+
+#: inc/block-styles.php:210
+msgid "Heart"
+msgstr ""
+
+#: inc/block-styles.php:214
+msgid "Arrow"
+msgstr ""
+
+#: inc/block-styles.php:218
+msgid "Down Curve Arrow"
+msgstr ""
+
+#: inc/block-styles.php:222
+msgid "Chevron"
+msgstr ""
+
+#: inc/block-styles.php:226
+msgid "Double Chevron"
+msgstr ""
+
+#: inc/block-styles.php:230
+msgid "Counter"
+msgstr ""
+
+#: inc/block-styles.php:234
+msgid "No Style"
+msgstr ""
+
+#: inc/block-styles.php:238
+msgid "Stripes with no border"
+msgstr ""
+
+#: inc/block-styles.php:242
+msgid "Quotation Mark"
+msgstr ""
+
+#: inc/block-styles.php:246
+msgid "Partial border (small)"
+msgstr ""
+
+#: inc/block-styles.php:250
+msgid "Partial border (medium)"
+msgstr ""
+
+#: inc/block-styles.php:254
+msgid "Partial border (large)"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:8
+msgid "Call to Action Cover"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:13
+msgid "Developed from years of "
+msgstr ""
+
+#: patterns/call-to-action-cover.php:13
+msgid "experience"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:17
+msgid ""
+"Our team of passionate professionals is dedicated to transforming your "
+"vision into impactful media experiences that captivate audiences and drive "
+"results. Let's embark on a journey of innovation and excellence together."
+msgstr ""
+
+#: patterns/call-to-action-cover.php:22
+msgid "Get in touch"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:30 patterns/feature-columns-3x3.php:20
+msgid "Strategic Tailored Media Planning"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:34 patterns/feature-columns-3x3.php:34
+msgid "Targeted Social Media Advertising"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:38 patterns/feature-columns-3x3.php:48
+msgid "Creative Content Production"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:42 patterns/feature-columns-3x3.php:64
+msgid "Reputation Management and PR"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:46 patterns/feature-columns-3x3.php:78
+msgid "SEO Optimization for Online Dominance"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:50 patterns/feature-columns-3x3.php:92
+msgid "Data-Driven Insights and Analytics"
+msgstr ""
+
+#: patterns/company-intro-button.php:8
+msgid "Company Intro with Button"
+msgstr ""
+
+#: patterns/company-intro-button.php:12
+msgid "Bespoke Interiors"
+msgstr ""
+
+#: patterns/company-intro-button.php:16
+msgid ""
+"Welcome to our company, where we transform living spaces into personalized "
+"havens that reflect your unique style and personality."
+msgstr ""
+
+#: patterns/company-intro-button.php:20
+msgid ""
+"As a bespoke home interior company, we pride ourselves on crafting tailor-"
+"made solutions that go beyond the ordinary, turning your vision of a dream "
+"home into a tangible reality."
+msgstr ""
+
+#: patterns/company-intro-button.php:24
+msgid ""
+"With a commitment to exquisite craftsmanship, innovative design, and "
+"attention to every detail, we invite you to embark on a journey with us as "
+"we redefine the art of home interiors, making your space truly one of a kind."
+msgstr ""
+
+#: patterns/company-intro-button.php:29
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/contrasting-company-intro.php:12
+msgid "Expert Business Advisor"
+msgstr ""
+
+#: patterns/contrasting-company-intro.php:16
+msgid ""
+"Step into the realm of strategic success with our expert business advice "
+"services. As seasoned professionals in the field, we bring a wealth of "
+"knowledge and experience to guide you through the intricacies of business "
+"management."
+msgstr ""
+
+#: patterns/contrasting-company-intro.php:20
+msgid ""
+"Whether you're a startup navigating the initial challenges or an established "
+"enterprise seeking to optimize operations, our advisor is dedicated to "
+"providing tailored solutions. With a keen understanding of market dynamics, "
+"financial strategies, and industry trends, we are your trusted partner on "
+"the path to achieving and exceeding your business goals."
+msgstr ""
+
+#: patterns/contrasting-company-intro.php:24
+msgid ""
+"Elevate your business acumen and strategy with the personalized insights and "
+"guidance of bespoke service."
+msgstr ""
+
+#: patterns/contrasting-company-intro.php:29
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:8
+msgid "Contrasting Information Panel"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:11
+msgid "This is a heading to focus attention on this section"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:15
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit eget lacinia, aliquam "
+"etiam tellus placerat duis convallis pulvinar augue habitant, et nibh "
+"torquent senectus interdum lacus sagittis. Dis elementum parturient risus "
+"metus accumsan euismod libero."
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:33
+msgid "A sub heading here"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:37
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit vestibulum diam "
+"lacinia elementum ornare rutrum nascetur nulla, sem justo pellentesque per "
+"convallis ligula suscipit lobortis leo euismod montes aptent quis lectus. "
+"Litora ultricies a fringilla commodo magna himenaeos purus, convallis mollis "
+"volutpat iaculis gravida ad, hendrerit vitae quam mattis fermentum nam."
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:47
+msgid "2,000"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:51
+msgid "Happy clients"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:57
+msgid "20m+"
+msgstr ""
+
+#: patterns/contrasting-information-panel.php:61
+msgid "Visitors securely served"
+msgstr ""
+
+#: patterns/cta-image-text.php:8
+msgid "Call to Action with Image and Text"
+msgstr ""
+
+#: patterns/cta-image-text.php:15
+msgid "Start your day the right way"
+msgstr ""
+
+#: patterns/cta-image-text.php:19
+msgid "30% OFF all packages"
+msgstr ""
+
+#: patterns/cta-image-text.php:23
+msgid "+ FREE bonus extras"
+msgstr ""
+
+#: patterns/cta-image-text.php:29 patterns/pricing-table-3-columns.php:40
+#: patterns/pricing-table-3-columns.php:119
+#: patterns/pricing-table-3-columns.php:198
+msgid "Subscribe"
+msgstr ""
+
+#: patterns/cta-image-text.php:35
+msgid "14 day money back guarantee"
+msgstr ""
+
+#: patterns/feature-boxes.php:8
+msgid "Feature Boxes"
+msgstr ""
+
+#: patterns/feature-boxes.php:18 patterns/feature-boxes.php:32
+#: patterns/feature-boxes.php:46
+msgid "Sub heading"
+msgstr ""
+
+#: patterns/feature-boxes.php:22 patterns/feature-boxes.php:36
+#: patterns/feature-boxes.php:50 patterns/image-text-contrast-background.php:21
+msgid ""
+"Class eleifend ridiculus turpis quisque nibh per ultrices porta nunc "
+"malesuada, fusce leo ut neque tortor vestibulum integer tempus consequat "
+"laoreet, auctor viverra aptent litora non quis fringilla dictum risus."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:8
+msgid "Feature Columns 3x3"
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:10
+msgid "Choose Media Agency in London"
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:24
+msgid ""
+"Unlock the power of precision with our strategic media planning services. We "
+"analyze market trends, consumer behavior, and competitor landscapes to craft "
+"bespoke plans that ensure your brand's message reaches the right audience "
+"through the most impactful channels. Maximize your advertising ROI with our "
+"tailored media strategies."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:38
+msgid ""
+"Elevate your brand's social presence with our targeted social media "
+"advertising solutions. From eye-catching content creation to data-driven "
+"audience targeting, we specialize in navigating the dynamic world of social "
+"platforms to enhance your brand's visibility, engagement, and conversion "
+"rates."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:52
+msgid ""
+"Immerse your audience in compelling narratives with our creative content "
+"production services. Our team of storytellers, designers, and filmmakers "
+"collaborate to bring your brand to life. From concept to execution, we craft "
+"visually stunning and emotionally resonant content that captivates and "
+"connects with your target audience."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:68
+msgid ""
+"Safeguard and enhance your brand's reputation with our comprehensive PR and "
+"reputation management services. We navigate the media landscape, managing "
+"communications, mitigating crises, and strategically positioning your brand "
+"to foster positive public perception. Let us be your trusted partner in "
+"maintaining a stellar brand image."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:82
+msgid ""
+"Propel your brand to the top of search engine results with our expert SEO "
+"optimization services. We harness the latest algorithms and industry best "
+"practices to boost your online visibility, drive organic traffic, and "
+"position your brand as a leader in your industry. Harness the power of "
+"search with our SEO expertise."
+msgstr ""
+
+#: patterns/feature-columns-3x3.php:96
+msgid ""
+"Transform data into actionable insights with our cutting-edge analytics and "
+"reporting services. Our team dives deep into the metrics that matter, "
+"providing you with a comprehensive understanding of campaign performance, "
+"audience behavior, and market trends. Make informed decisions and optimize "
+"your strategies for unparalleled success in the digital landscape."
+msgstr ""
+
+#: patterns/feature-columns.php:8
+msgid "Feature Columns"
+msgstr ""
+
+#: patterns/feature-columns.php:16
+msgid "Business Venture"
+msgstr ""
+
+#: patterns/feature-columns.php:20
+msgid "Achieve your financial and commercial goals."
+msgstr ""
+
+#: patterns/feature-columns.php:30
+msgid "Retail Emporium"
+msgstr ""
+
+#: patterns/feature-columns.php:34
+msgid "Sell your goods and services online."
+msgstr ""
+
+#: patterns/feature-columns.php:44
+msgid "Wordsmith"
+msgstr ""
+
+#: patterns/feature-columns.php:48
+msgid "Share your expertise and knowledge worldwide."
+msgstr ""
+
+#: patterns/feature-columns.php:58
+msgid "Show Off"
+msgstr ""
+
+#: patterns/feature-columns.php:62
+msgid "Your experience, skills and qualifications."
+msgstr ""
+
+#: patterns/feature-list.php:8
+msgid "Feature List with Heading"
+msgstr ""
+
+#: patterns/feature-list.php:11
+msgid "Choose a style that works"
+msgstr ""
+
+#: patterns/feature-list.php:15
+msgid "for you"
+msgstr ""
+
+#: patterns/feature-list.php:20
+msgid "All of our work includes:"
+msgstr ""
+
+#: patterns/feature-list.php:26
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: patterns/feature-list.php:30
+msgid "Consectetur adipiscing elit"
+msgstr ""
+
+#: patterns/feature-list.php:34
+msgid "Nascetur turpis orci condimentum"
+msgstr ""
+
+#: patterns/feature-list.php:40
+msgid "Nisl lacinia praesent ligula nibh"
+msgstr ""
+
+#: patterns/feature-list.php:44
+msgid "Erat vehicula interdum"
+msgstr ""
+
+#: patterns/feature-list.php:48
+msgid "Velit pretium diam elementum"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "© Your Company Name"
+msgstr ""
+
+#: patterns/header-button.php:37
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/header-top-bar.php:21
+msgid "123 Fifth Avenue, NY 10160, New York"
+msgstr ""
+
+#: patterns/header-top-bar.php:31
+msgid "800-123-456"
+msgstr ""
+
+#: patterns/header-top-bar.php:41
+msgid "contact@example.com"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:8
+msgid "Heading and 2x2 Boxes"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:12
+msgid "The Revolution is Here"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:16
+msgid "Take your site to the next level and beyond."
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:22
+msgid "Stylish"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:26 patterns/heading-2x2-boxes.php:36
+#: patterns/heading-2x2-boxes.php:48 patterns/heading-2x2-boxes.php:58
+msgid ""
+"Class eleifend ridiculus turpis quisque nibh per ultrices porta nunc "
+"malesuada, fusce leo ut neque tortor vestibulum integer tempus consequat."
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:32
+msgid "Creative"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:44
+msgid "Practical"
+msgstr ""
+
+#: patterns/heading-2x2-boxes.php:54
+msgid "Engaging"
+msgstr ""
+
+#: patterns/hero-cover.php:8
+msgid "Hero Cover"
+msgstr ""
+
+#: patterns/hero-cover.php:11
+msgid "YOUR DESIGN"
+msgstr ""
+
+#: patterns/hero-cover.php:15
+msgid "Free up time to do more of the things you love"
+msgstr ""
+
+#: patterns/hero-cover.php:20
+msgid "MORE INFO"
+msgstr ""
+
+#: patterns/hero-cover.php:27
+msgid "Get the free theme. Search for "
+msgstr ""
+
+#: patterns/hero-cover.php:27
+msgid "riker"
+msgstr ""
+
+#: patterns/hero-cover.php:27
+msgid " in your site's dashboard."
+msgstr ""
+
+#: patterns/image-text-contrast-background.php:8
+msgid "Image and Text with Contrast Background"
+msgstr ""
+
+#: patterns/image-text-contrast-background.php:12
+msgid "What can we do"
+msgstr ""
+
+#: patterns/image-text-contrast-background.php:16
+msgid "for you?"
+msgstr ""
+
+#: patterns/image-text-contrast-background.php:26
+msgid "Get In Touch →"
+msgstr ""
+
+#: patterns/large-intro.php:8
+msgid "Large Intro"
+msgstr ""
+
+#: patterns/large-intro.php:11
+msgid "unlimited"
+msgstr ""
+
+#: patterns/large-intro.php:11
+msgid "design"
+msgstr ""
+
+#: patterns/large-intro.php:11
+msgid "possibilities"
+msgstr ""
+
+#: patterns/latest-news.php:8 patterns/latest-news.php:11
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "View All "
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:8
+msgid "Pricing Table - 2 columns"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:14
+msgid "$19"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:18
+#: patterns/pricing-table-2-columns.php:98
+msgid "per month"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:23
+#: patterns/pricing-table-3-columns.php:19
+msgid "Starter Package"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:27
+msgid ""
+"Ideal for those who are just getting started and only need the basic "
+"features and single user support."
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:32
+msgid "Subscribe Today"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:42
+#: patterns/pricing-table-3-columns.php:51
+msgid "Security Tools"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:56
+#: patterns/pricing-table-3-columns.php:61
+msgid "Live Support"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:70
+#: patterns/pricing-table-3-columns.php:71
+#: patterns/pricing-table-3-columns.php:150
+msgid "Single User"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:84
+#: patterns/pricing-table-3-columns.php:81
+msgid "Basic Features"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:94
+msgid "$29"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:103
+msgid "Plus Package"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:107
+msgid ""
+"A must have for professionals and teams who need all the extras to take "
+"their projects to the next level."
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:112
+msgid "Subscribe Now"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:122
+msgid "Everything in Starter Package plus..."
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:136
+#: patterns/pricing-table-3-columns.php:140
+#: patterns/pricing-table-3-columns.php:219
+msgid "One-to-one Support"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:150
+#: patterns/pricing-table-3-columns.php:229
+msgid "Up to 10 Users"
+msgstr ""
+
+#: patterns/pricing-table-2-columns.php:164
+#: patterns/pricing-table-3-columns.php:160
+#: patterns/pricing-table-3-columns.php:239
+msgid "Bonus Addons"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:8
+msgid "Pricing Table - 3 columns"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:25
+#: patterns/pricing-table-3-columns.php:104
+#: patterns/pricing-table-3-columns.php:183
+msgid "$"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:29
+msgid "19"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:33
+#: patterns/pricing-table-3-columns.php:112
+#: patterns/pricing-table-3-columns.php:191
+msgid "/ month"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:92
+msgid "Most Popular"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:98
+msgid "Pro Package"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:108
+msgid "29"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:130
+msgid "Enhanced Security"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:177
+msgid "Teams Package"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:187
+msgid "39"
+msgstr ""
+
+#: patterns/pricing-table-3-columns.php:209
+msgid "Everything in Pro plus..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Riker"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://uxlthemes.com/theme/riker/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fully compatible with the site editor, Riker is a full site editing block "
+"theme with an array of style variations, patterns, block styles and fonts, "
+"making it suitable for a wide range of use cases such as business, "
+"ecommerce, news, blogging and personal sites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UXL Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://uxlthemes.com/"
+msgstr ""

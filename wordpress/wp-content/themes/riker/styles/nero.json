@@ -1,0 +1,127 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Nero",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#fafafa"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#121b23"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#c8ca54"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#d97649"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#f7bd93"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#f5f5f5"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#e8e8e8"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#16202a"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#cccccc"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent",
+					"slug": "white-and-accent",
+					"colors": [ "#ffffff", "#c8ca54" ]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [ "#ffffff", "#d97649" ]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [ "#ffffff", "#f7bd93" ]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [ "#fff", "#16202a" ]
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--accent)"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--open-sans)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--open-sans)"
+		},
+		"blocks": {
+			"core/post-title" : {
+				"elements": {
+					"link": {
+						"color": {
+							"text": "var:preset|color|contrast"
+						},
+						":hover": {
+							"color": {
+								"text": "var:preset|color|accent"
+							}
+						}
+					}
+				}
+			},
+			"core/button": {
+				"color": {
+					"background": "var:preset|color|accent",
+					"text": "var:preset|color|base"
+				}
+			},
+			"core/quote": {
+				"color": {
+					"text": "var:preset|color|base"
+				}
+			},
+			"core/pullquote": {
+				"color": {
+					"text": "var:preset|color|base"
+				}
+			}
+		}
+	}
+}

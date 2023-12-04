@@ -1,0 +1,78 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#090b0a"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#ffffff"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#74ef3b"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#85fafe"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#2f6065"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#1a1c1b"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#57635c"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#f7f7f8"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#ededeb"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent",
+					"slug": "white-and-accent",
+					"colors": [ "#ffffff", "#74ef3b" ]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [ "#ffffff", "#85fafe" ]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [ "#ffffff", "#2f6065" ]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [ "#fff", "#f7f7f8" ]
+				}
+			]
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Greenland"
+}

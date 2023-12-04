@@ -1,0 +1,90 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Temperate",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#0a0b09"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#fff"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#daef3b"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#85febd"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#2f654d"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#1b1c1a"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#596357"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#f7f8f8"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#edebeb"
+				}
+			],
+			"duotone": [
+                {
+                    "name": "White / Accent",
+                    "slug": "white-and-accent",
+                    "colors": [
+                        "#ffffff",
+                        "#daef3b"
+                    ]
+                },
+                {
+                    "name": "White / Accent 2",
+                    "slug": "white-and-accent-2",
+                    "colors": [
+                        "#ffffff",
+                        "#85febd"
+                    ]
+                },
+                {
+                    "name": "White / Accent 3",
+                    "slug": "white-and-accent-3",
+                    "colors": [
+                        "#ffffff",
+                        "#2f654d"
+                    ]
+                },
+                {
+                    "name": "Base / Base 2",
+                    "slug": "base-and-base-2",
+                    "colors": [
+                        "#fff",
+                        "#f7f8f8"
+                    ]
+                }
+            ]
+		}
+	}
+}

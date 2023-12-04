@@ -1,0 +1,14 @@
+.wp-block-quote.is-style-quotation-mark {
+	position: relative;
+	border: none;
+	padding: 0.5em 1em 0.5em 3em;
+}
+
+.wp-block-quote.is-style-quotation-mark:before {
+	position: absolute;
+	top: -0.15em;
+	left: 0;
+	content: '"';
+	font-size: 6em;
+	font-family: var(--wp--preset--font-family--dancing-script);
+}

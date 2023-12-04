@@ -1,0 +1,105 @@
+{
+	"styles": {
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--inter)",
+			"fontStyle": "normal",
+			"fontWeight": "300"
+		},
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--inter)"
+				}
+			}
+		},
+		"spacing": {
+			"blockGap": "var(--wp--preset--spacing--40)"
+		}
+	},
+	"settings": {
+		"custom": {
+			"border": {
+				"small": "1px",
+				"medium": "2px",
+				"large": "3px"
+			},
+			"menu-icon": {
+				"scale": "1.3"
+			}
+		},
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#1d2327"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#fff"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#b1c5a4"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#c2a990"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#d8613c"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#2d3336"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#636363"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#f8f7f8"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#f1f1f0"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent",
+					"slug": "white-and-accent",
+					"colors": [ "#ffffff", "#b1c5a4" ]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [ "#ffffff", "#c2a990" ]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [ "#ffffff", "#d8613c" ]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [ "#fff", "#f8f7f8" ]
+				}
+			]
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Shirley"
+}

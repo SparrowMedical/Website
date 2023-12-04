@@ -1,0 +1,160 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Camden",
+	"settings": {
+		"typography": {
+			"fontSizes": [
+				{
+					"slug": "small",
+					"name": "Small",
+					"size": "14px",
+					"fluid": {
+						"min": "13px",
+						"max": "14px"
+					}
+				},
+				{
+					"slug": "standard",
+					"name": "Standard",
+					"size": "18px",
+					"fluid": {
+						"min": "16px",
+						"max": "18px"
+					}
+				},
+				{
+					"slug": "medium",
+					"name": "Medium",
+					"size": "24px",
+					"fluid": {
+						"min": "20px",
+						"max": "24px"
+					}
+				},
+				{
+					"slug": "large",
+					"name": "Large",
+					"size": "36px",
+					"fluid": {
+						"min": "24px",
+						"max": "36px"
+					}
+				},
+				{
+					"slug": "x-large",
+					"name": "XL",
+					"size": "48px",
+					"fluid": {
+						"min": "36px",
+						"max": "48px"
+					}
+				},
+				{
+					"slug": "xx-large",
+					"name": "2XL",
+					"size": "100px",
+					"fluid": {
+						"min": "48px",
+						"max": "100px"
+					}
+				}
+			]
+		},
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#0a090b"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#ffffff"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#86a7f9"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#fe85f6"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#652f5d"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#1b1a1c"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#5c5763"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#f8f7f7"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#ebeded"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent",
+					"slug": "white-and-accent",
+					"colors": [
+						"#ffffff",
+						"#86a7f9"
+					]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [
+						"#ffffff",
+						"#fe85f6"
+					]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [
+						"#ffffff",
+						"#652f5d"
+					]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [
+						"#fff",
+						"#f8f7f7"
+					]
+				}
+			]
+		}
+	},
+	"styles": {
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--lora)"
+		},
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--lora)"
+				}
+			}
+		}
+	}
+}
